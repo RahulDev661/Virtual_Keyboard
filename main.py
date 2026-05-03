@@ -128,7 +128,7 @@ while True:
     cv2.putText(img, finalText, (60, 420),
                 cv2.FONT_HERSHEY_PLAIN, 3, (255, 255, 255), 3)
 
-    cv2.imshow("Virtual Keyboard", img)
+    cv2.imshow("Virtual Keyboad", img)
 
     if cv2.waitKey(1) & 0xFF == 27:
         break
