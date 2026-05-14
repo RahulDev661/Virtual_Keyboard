@@ -36,12 +36,9 @@ Move Index Finger	Move cursor over keys<br>
 Pinch Index + Middle Finger	Press key<br>
 Hover on Button	Highlight key<br>
 Toggle Button	Show/Hide keyboard<br><br>
-📂 Project Structure
-virtual-keyboard/
-│
-├── main.py
-├── README.md
-└── requirements.txt
+
+
+   
 
 Dynamic UI Rendering
 📸 Future Improvements
